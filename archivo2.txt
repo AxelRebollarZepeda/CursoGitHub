@@ -4,7 +4,10 @@ este es el cambio 2
 este es el cambio 3
 
 
+<<<<<<< HEAD
 un cambio para merge desde master
+=======
+>>>>>>> Release
 
 
 
@@ -12,5 +15,12 @@ un cambio para merge desde master
 
 
 
+<<<<<<< HEAD
 este es un cambio en la rama de Release
 release con cambio para merge
+=======
+
+
+
+cambio en Release para nuevo merge
+>>>>>>> Release
